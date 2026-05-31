@@ -1,11 +1,5 @@
 [
   {
-    "chunk_id": 10,
-    "title": "1930 FIFA World Cup",
-    "question": "In what year did FIFA publish a report that ranked all teams in each World Cup up to that point?",
-    "gold_answer": "1986"
-  },
-  {
     "chunk_id": 67,
     "title": "1970 FIFA World Cup",
     "question": "Which country hosted the 1978 World Cup?",
@@ -76,12 +70,6 @@
     "title": "FIFA World Cup records and statistics",
     "question": "Which team has the most World Cup appearances?",
     "gold_answer": "Brazil"
-  },
-  {
-    "chunk_id": 344,
-    "title": "History of the FIFA World Cup",
-    "question": "Who scored the earliest World Cup goal of all time?",
-    "gold_answer": "Hakan Sukur"
   },
   {
     "chunk_id": 307,
