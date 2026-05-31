@@ -1,0 +1,93 @@
+[
+  {
+    "question": "Which country hosted the 1978 World Cup?",
+    "gold_answer": "Argentina",
+    "system_answer": "Argentina hosted the 1978 World Cup.",
+    "score": 5,
+    "justification": "The system correctly identified Argentina as the host of the 1978 World Cup."
+  },
+  {
+    "question": "What was the final score of the match between Italy and West Germany in the 1982 FIFA World Cup final?",
+    "gold_answer": "3–1",
+    "system_answer": "The final score of the match between Italy and West Germany in the 1982 FIFA World Cup final was 3–1 in favor of Italy.",
+    "score": 5,
+    "justification": "The system correctly identified the final score of the 1982 FIFA World Cup final between Italy and West Germany."
+  },
+  {
+    "question": "Who is the only goalkeeper to have won the Golden Ball in FIFA World Cup history?",
+    "gold_answer": "Oliver Kahn",
+    "system_answer": "Oliver Kahn is the only goalkeeper to have won the Golden Ball in FIFA World Cup history, which he did in the 2002 FIFA World Cup.",
+    "score": 5,
+    "justification": "The system correctly identified Oliver Kahn as the only goalkeeper to win the Golden Ball and provided the correct context (2002 FIFA World Cup)."
+  },
+  {
+    "question": "How many high-speed cameras were featured in the Goal Control system used during the 2014 World Cup?",
+    "gold_answer": "14 high-speed cameras",
+    "system_answer": "14 high-speed cameras were featured in the Goal Control system used during the 2014 World Cup.",
+    "score": 5,
+    "justification": "The system's answer is factually accurate and matches the gold answer perfectly."
+  },
+  {
+    "question": "Who became the first man to score in five World Cups?",
+    "gold_answer": "Cristiano Ronaldo",
+    "system_answer": "Just Fontaine became the first man to score in every World Cup appearance (1958), but Jairzinho is the first to score in every game of a single World Cup (1970). No player has scored in five different World Cups.",
+    "score": 1,
+    "justification": "The system's answer is factually incorrect. Cristiano Ronaldo became the first man to score in five different World Cups (2006, 2010, 2014, 2018, and 2022), and the system explicitly denies that this feat has been achieved."
+  },
+  {
+    "question": "On what date did Pelé make his debut for the Cosmos?",
+    "gold_answer": "15 June 1975",
+    "system_answer": "Pelé made his debut for the Cosmos on 15 June 1975.",
+    "score": 5,
+    "justification": "The system's answer matches the gold answer exactly."
+  },
+  {
+    "question": "Who broke Diego Maradona's record as the all-time leading goalscorer for Napoli in 2017?",
+    "gold_answer": "Marek Hamšík",
+    "system_answer": "Marek Hamšík broke Diego Maradona's record as the all-time leading goalscorer for Napoli in 2017.",
+    "score": 5,
+    "justification": "The system correctly identified Marek Hamšík as the player who broke Diego Maradona's record in 2017."
+  },
+  {
+    "question": "In which match did Zidane score his first hat-trick in January 2006?",
+    "gold_answer": "Against Sevilla",
+    "system_answer": "The context does not provide information about which match Zidane scored his first hat-trick in January 2006.",
+    "score": 1,
+    "justification": "The system failed to provide the answer and claimed the information was not available, which corresponds to a score of 1 according to the instructions."
+  },
+  {
+    "question": "On what date did Klose refuse to accept a penalty while playing for Werder Bremen against Arminia Bielefeld?",
+    "gold_answer": "30 April 2005",
+    "system_answer": "30 April 2005",
+    "score": 5,
+    "justification": "The system provided the exact date mentioned in the gold answer."
+  },
+  {
+    "question": "What role did Cruyff have for the broadcaster ITV during the 1978 World Cup in Argentina?",
+    "gold_answer": "He worked as an analyst.",
+    "system_answer": "Cruyff worked as an analyst for the broadcaster ITV during the 1978 World Cup in Argentina.",
+    "score": 5,
+    "justification": "The system's answer is factually correct and matches the gold answer perfectly."
+  },
+  {
+    "question": "How many goals did Müller score in FIFA World Cup tournaments?",
+    "gold_answer": "14 goals",
+    "system_answer": "Gerd Müller scored 14 goals in FIFA World Cup tournaments.",
+    "score": 5,
+    "justification": "The system correctly identified the player and the total number of goals scored in FIFA World Cup tournaments, matching the gold answer."
+  },
+  {
+    "question": "Which team has the most World Cup appearances?",
+    "gold_answer": "Brazil",
+    "system_answer": "Brazil has the most World Cup appearances, with 22 appearances from 1930 to 2022.",
+    "score": 5,
+    "justification": "The system correctly identifies Brazil as the team with the most World Cup appearances and provides accurate supporting information."
+  },
+  {
+    "question": "Which team won the gold medals in football at the 1908 Summer Olympics in London?",
+    "gold_answer": "Great Britain (represented by the England national amateur football team)",
+    "system_answer": "England national amateur football team",
+    "score": 4,
+    "justification": "The system correctly identified the team that played, but the official gold medal winner is recognized as Great Britain. While the England national amateur team represented Great Britain, the answer is slightly incomplete by omitting the official national designation."
+  }
+]
