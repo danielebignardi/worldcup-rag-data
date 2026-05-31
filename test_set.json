@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": 10,
+    "title": "1930 FIFA World Cup",
+    "question": "In what year did FIFA publish a report that ranked all teams in each World Cup up to that point?",
+    "gold_answer": "1986"
+  },
+  {
+    "chunk_id": 67,
+    "title": "1970 FIFA World Cup",
+    "question": "Which country hosted the 1978 World Cup?",
+    "gold_answer": "Argentina"
+  },
+  {
+    "chunk_id": 101,
+    "title": "1982 FIFA World Cup",
+    "question": "What was the final score of the match between Italy and West Germany in the 1982 FIFA World Cup final?",
+    "gold_answer": "3–1"
+  },
+  {
+    "chunk_id": 195,
+    "title": "2002 FIFA World Cup",
+    "question": "Who is the only goalkeeper to have won the Golden Ball in FIFA World Cup history?",
+    "gold_answer": "Oliver Kahn"
+  },
+  {
+    "chunk_id": 241,
+    "title": "2014 FIFA World Cup",
+    "question": "How many high-speed cameras were featured in the Goal Control system used during the 2014 World Cup?",
+    "gold_answer": "14 high-speed cameras"
+  },
+  {
+    "chunk_id": 287,
+    "title": "2022 FIFA World Cup",
+    "question": "Who became the first man to score in five World Cups?",
+    "gold_answer": "Cristiano Ronaldo"
+  },
+  {
+    "chunk_id": 374,
+    "title": "Pelé",
+    "question": "On what date did Pelé make his debut for the Cosmos?",
+    "gold_answer": "15 June 1975"
+  },
+  {
+    "chunk_id": 398,
+    "title": "Diego Maradona",
+    "question": "Who broke Diego Maradona's record as the all-time leading goalscorer for Napoli in 2017?",
+    "gold_answer": "Marek Hamšík"
+  },
+  {
+    "chunk_id": 512,
+    "title": "Zinedine Zidane",
+    "question": "In which match did Zidane score his first hat-trick in January 2006?",
+    "gold_answer": "Against Sevilla"
+  },
+  {
+    "chunk_id": 667,
+    "title": "Miroslav Klose",
+    "question": "On what date did Klose refuse to accept a penalty while playing for Werder Bremen against Arminia Bielefeld?",
+    "gold_answer": "30 April 2005"
+  },
+  {
+    "chunk_id": 636,
+    "title": "Johan Cruyff",
+    "question": "What role did Cruyff have for the broadcaster ITV during the 1978 World Cup in Argentina?",
+    "gold_answer": "He worked as an analyst."
+  },
+  {
+    "chunk_id": 695,
+    "title": "Gerd Müller",
+    "question": "How many goals did Müller score in FIFA World Cup tournaments?",
+    "gold_answer": "14 goals"
+  },
+  {
+    "chunk_id": 357,
+    "title": "FIFA World Cup records and statistics",
+    "question": "Which team has the most World Cup appearances?",
+    "gold_answer": "Brazil"
+  },
+  {
+    "chunk_id": 344,
+    "title": "History of the FIFA World Cup",
+    "question": "Who scored the earliest World Cup goal of all time?",
+    "gold_answer": "Hakan Sukur"
+  },
+  {
+    "chunk_id": 307,
+    "title": "FIFA World Cup",
+    "question": "Which team won the gold medals in football at the 1908 Summer Olympics in London?",
+    "gold_answer": "Great Britain (represented by the England national amateur football team)"
+  }
+]
